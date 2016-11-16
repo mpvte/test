@@ -1,4 +1,3 @@
-https://d.pcs.baidu.com/file/e74d72f3d90456003e9e02ba0fb7da61?fid=4255610198-250528-258476818907013&time=1479299836&rt=pr&sign=FDTAERVCY-DCb740ccc5511e5e8fedcff06b081203-RnP155q8O2XPflVBCkk0pxUs2%2BA%3D&expires=8h&chkv=1&chkbd=1&chkpc=et&dp-logid=7441631103414571698&dp-callid=0&r=218734058
+ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso|630237184|EC51916C9D9B8B931195EE0D6EE9B40E|/
 
-
-https://d.pcs.baidu.com/file/7744e10c90ef42ab143f19e9cc9f8887?fid=4255610198-250528-225524961237216&time=1479299989&rt=pr&sign=FDTAERVCY-DCb740ccc5511e5e8fedcff06b081203-LWIZPLkYS7rWBq6C6ypBpMc7NeU%3D&expires=8h&chkv=1&chkbd=1&chkpc=et&dp-logid=7441672308570090186&dp-callid=0&r=432889722
+ed2k://|file|cn_windows_10_education_version_1607_updated_jul_2016_x64_dvd_9056220.iso|4150953984|AD0737D5F182082C37E6D1DB7CCDBB77|/
